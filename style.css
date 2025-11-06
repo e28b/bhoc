@@ -78,7 +78,7 @@
 
 .b8 {
   font-weight: bold;
-  font-size: 25px;
+  font-size: 19px;
   padding: 9px;
   color: white;
   background-color: red;
@@ -111,3 +111,4 @@
   font-weight: bold;
   box-shadow: 5px 5px 5px white;
 }
+
